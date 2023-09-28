@@ -1,5 +1,6 @@
 const prompt = require("prompt-sync")();
 
+// Functions of the Student Generator Grade
 
 function getGrade(){
   const marks = prompt("Enter students mark between 0-100: ")
@@ -29,4 +30,5 @@ function getGrade(){
  }
 }
 
+// Tester
 getGrade()

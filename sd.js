@@ -1,5 +1,7 @@
 const prompt = require("prompt-sync")();
 
+//Functions of the Speed detector
+
 function speedCheck() {
   const speed = prompt("Please enter the drivers car speed:");
   let points = 0;
@@ -17,4 +19,5 @@ function speedCheck() {
   }
 }
 
+// Tester
 speedCheck();
