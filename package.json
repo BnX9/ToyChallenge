@@ -1,0 +1,14 @@
+{
+  "name": "toychallenge",
+  "version": "1.0.0",
+  "description": "## Challenge 1: Student Grade Generator (Toy Problem)",
+  "main": "ns.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Brian Ngugi",
+  "license": "ISC",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
